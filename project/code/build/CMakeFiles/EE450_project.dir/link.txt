@@ -1,0 +1,3 @@
+C:\cmake-3.28.0-rc4-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\EE450_project.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\EE450_project.dir/objects.a @CMakeFiles\EE450_project.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\EE450_project.dir/objects.a -Wl,--no-whole-archive -o EE450_project.exe -Wl,--out-implib,libEE450_project.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\EE450_project.dir\linkLibs.rsp

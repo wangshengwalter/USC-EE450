@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/EE450/project/code/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/EE450_project.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\EE450_project.dir\\serverM.cpp.obj -c E:\\EE450\\project\\code\\serverM.cpp",
+  "file": "E:/EE450/project/code/serverM.cpp",
+  "output": "CMakeFiles/EE450_project.dir/serverM.cpp.obj"
+}
+]
